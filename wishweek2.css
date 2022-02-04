@@ -1,0 +1,22 @@
+body {
+    font-size:25px;
+    color:yellowgreen;
+    background-image:
+    url("https://cdn.mos.cms.futurecdn.net/how2BtbjjDpofnaa2cyKeG.jpg")
+}
+
+h1 {
+    font-size:65px;
+    text-align:center;
+    color:yellowgreen;
+}
+
+.order {
+    font-size:25px;
+    color:yellowgreen;
+}
+
+a {
+    font-size:30px;
+    color:yellowgreen;
+}

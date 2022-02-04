@@ -1,0 +1,22 @@
+body {
+    font-size:25px;
+    color:yellowgreen;
+    background-image:
+    url("https://cdn.mos.cms.futurecdn.net/how2BtbjjDpofnaa2cyKeG.jpg");    cursor: url("8-83792_cool-mouse-cursors-png-transparent-png"), auto;
+    cursor: url("https://www.vhv.rs/dpng/d/8-83792_cool-mouse-cursors-png-transparent-png.png"), 15 15, auto;
+}
+
+h1 {
+    font-size:90px;
+    text-align:center;
+    color:yellowgreen;
+}
+
+a {
+    color:yellowgreen;
+    font-size:30px;
+}
+
+.red {
+    color:red;
+}
